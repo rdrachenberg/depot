@@ -1,6 +1,6 @@
 {
-    "name": "Cat Coin",
-    "symbol": "CAT",
-    "description": "an awesome blinged tabby",
+    "name": "Solana Mint Forge",
+    "symbol": "SMF",
+    "description": "Build your meme token dreams",
     "image": "https://github.com/rdrachenberg/depot/blob/main/images/solana.png?raw=true"
 }
